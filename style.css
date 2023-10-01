@@ -1,0 +1,33 @@
+#p1{
+    background: rgb(138, 138, 184); 
+    color:black;
+    border:1px solid blue;
+
+    }
+ h3{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 600;
+        color:blueviolet
+    }
+  #newheading{
+        color:blue
+    }
+ .heading2{
+        color: blueviolet;
+    }
+a{
+        text-align: center;
+    }
+ table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+td,th{
+    border:1px solid #ddd;
+    text-align: center;
+    padding:8px;
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+}
